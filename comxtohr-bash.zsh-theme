@@ -1,1 +1,1 @@
-PROMPT='%{$fg_bold[green]%}%n%{$reset_color%}@%{$fg_bold[blue]%}%m%{$reset_color%}:%{$fg_bold[blue]%}%~%{$reset_color%} (%{$fg_bold[cyan]%}%*%{$reset_color%})%{$fg_bold[yellow]%}%(!.#.$)%{$reset_color%} '
+PROMPT='%{$fg_bold[green]%}%n@%m%{$reset_color%}:%{$fg_bold[blue]%}%~%{$reset_color%}%(!.#.$)%{$reset_color%} '
